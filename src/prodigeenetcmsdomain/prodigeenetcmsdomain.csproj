@@ -4,4 +4,8 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
+  <PropertyGroup>
+    <RuntimeFrameworkVersion>2.1.5</RuntimeFrameworkVersion>      
+  </PropertyGroup>
+
 </Project>
